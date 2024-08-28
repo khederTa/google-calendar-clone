@@ -1,3 +1,6 @@
+# Description
+The main goal of this project is to create a simple calendar application similar to Google Calendar. While this is a vastly simplified version of Google Calendar it is still quite complicated and will require lots of unique and interesting code. This project should also be written entirely in TypeScript if you are familiar with TypeScript as it is really good practice for most of the React specific TypeScript concepts.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
